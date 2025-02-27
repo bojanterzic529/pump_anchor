@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" align="right" width="30%" style="margin: -20px 0 0 20px;">
 <h1>PUMP_ANCHOR</h1>
 <p align="left">
-	<em><code>❯ REPLACE-ME</code></em>
+	<em><code>❯ Thrust App</code></em>
 </p>
 <p align="left">
 	<img src="https://img.shields.io/github/license/bojanterzic529/pump_anchor?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
@@ -38,13 +38,13 @@
 
 ##  Overview
 
-<code>❯ REPLACE-ME</code>
+<code>This is a Solana program built with Rust Anchor for a launchpad project on Solana. This project is similar to pump.fun</code>
 
 ---
 
 ##  Features
 
-<code>❯ REPLACE-ME</code>
+<code>Create Meme Coin launchpad and let others buy or sell it. After reaching marketcap, it will be listed to Raydium.</code>
 
 ---
 
@@ -94,19 +94,19 @@
 			<table>
 			<tr>
 				<td><b><a href='https://github.com/bojanterzic529/pump_anchor/blob/master/tsconfig.json'>tsconfig.json</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>Typescript Configuration File</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/bojanterzic529/pump_anchor/blob/master/Cargo.toml'>Cargo.toml</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>Anchor Configuration File</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/bojanterzic529/pump_anchor/blob/master/Anchor.toml'>Anchor.toml</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>Anchor Project Configuration File</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/bojanterzic529/pump_anchor/blob/master/package.json'>package.json</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>Node Js Project Configuration File</code></td>
 			</tr>
 			</table>
 		</blockquote>
@@ -120,11 +120,11 @@
 					<table>
 					<tr>
 						<td><b><a href='https://github.com/bojanterzic529/pump_anchor/blob/master/programs/thrust_app/Cargo.toml'>Cargo.toml</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
+						<td><code>Anchor Configuration File</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/bojanterzic529/pump_anchor/blob/master/programs/thrust_app/Xargo.toml'>Xargo.toml</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
+						<td><code>Anchor Configuration File</code></td>
 					</tr>
 					</table>
 					<details>
@@ -133,19 +133,19 @@
 							<table>
 							<tr>
 								<td><b><a href='https://github.com/bojanterzic529/pump_anchor/blob/master/programs/thrust_app/src/lib.rs'>lib.rs</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
+								<td><code>Main entry point for the Thrust App program</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/bojanterzic529/pump_anchor/blob/master/programs/thrust_app/src/utils.rs'>utils.rs</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
+								<td><code>Main utility functions for the Thrust App program</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/bojanterzic529/pump_anchor/blob/master/programs/thrust_app/src/error.rs'>error.rs</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
+								<td><code>Declaration of error code</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/bojanterzic529/pump_anchor/blob/master/programs/thrust_app/src/constants.rs'>constants.rs</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
+								<td><code>Main constants for the Thrust App program</code></td>
 							</tr>
 							</table>
 							<details>
@@ -154,15 +154,15 @@
 									<table>
 									<tr>
 										<td><b><a href='https://github.com/bojanterzic529/pump_anchor/blob/master/programs/thrust_app/src/pool/mod.rs'>mod.rs</a></b></td>
-										<td><code>❯ REPLACE-ME</code></td>
+										<td><code>Entry point for the pool state</code></td>
 									</tr>
 									<tr>
 										<td><b><a href='https://github.com/bojanterzic529/pump_anchor/blob/master/programs/thrust_app/src/pool/event.rs'>event.rs</a></b></td>
-										<td><code>❯ REPLACE-ME</code></td>
+										<td><code>Declaration of event for pool state instructions</code></td>
 									</tr>
 									<tr>
 										<td><b><a href='https://github.com/bojanterzic529/pump_anchor/blob/master/programs/thrust_app/src/pool/state.rs'>state.rs</a></b></td>
-										<td><code>❯ REPLACE-ME</code></td>
+										<td><code>Declaration of pool state structure</code></td>
 									</tr>
 									</table>
 									<details>
@@ -171,23 +171,23 @@
 											<table>
 											<tr>
 												<td><b><a href='https://github.com/bojanterzic529/pump_anchor/blob/master/programs/thrust_app/src/pool/ixs/mod.rs'>mod.rs</a></b></td>
-												<td><code>❯ REPLACE-ME</code></td>
+												<td><code>Entry point of pool state instructions</code></td>
 											</tr>
 											<tr>
 												<td><b><a href='https://github.com/bojanterzic529/pump_anchor/blob/master/programs/thrust_app/src/pool/ixs/buy.rs'>buy.rs</a></b></td>
-												<td><code>❯ REPLACE-ME</code></td>
+												<td><code>Declaration of buy instruction</code></td>
 											</tr>
 											<tr>
 												<td><b><a href='https://github.com/bojanterzic529/pump_anchor/blob/master/programs/thrust_app/src/pool/ixs/withdraw.rs'>withdraw.rs</a></b></td>
-												<td><code>❯ REPLACE-ME</code></td>
+												<td><code>Delcaration of withdraw instruction</code></td>
 											</tr>
 											<tr>
 												<td><b><a href='https://github.com/bojanterzic529/pump_anchor/blob/master/programs/thrust_app/src/pool/ixs/create_pool.rs'>create_pool.rs</a></b></td>
-												<td><code>❯ REPLACE-ME</code></td>
+												<td><code>Delcaration of create pool instruction</code></td>
 											</tr>
 											<tr>
 												<td><b><a href='https://github.com/bojanterzic529/pump_anchor/blob/master/programs/thrust_app/src/pool/ixs/sell.rs'>sell.rs</a></b></td>
-												<td><code>❯ REPLACE-ME</code></td>
+												<td><code>Delcaration of sell instruction</code></td>
 											</tr>
 											</table>
 										</blockquote>
@@ -200,11 +200,11 @@
 									<table>
 									<tr>
 										<td><b><a href='https://github.com/bojanterzic529/pump_anchor/blob/master/programs/thrust_app/src/main_state/mod.rs'>mod.rs</a></b></td>
-										<td><code>❯ REPLACE-ME</code></td>
+										<td><code>Entry point of main state instructions</code></td>
 									</tr>
 									<tr>
 										<td><b><a href='https://github.com/bojanterzic529/pump_anchor/blob/master/programs/thrust_app/src/main_state/state.rs'>state.rs</a></b></td>
-										<td><code>❯ REPLACE-ME</code></td>
+										<td><code>Declaration of main state structure</code></td>
 									</tr>
 									</table>
 									<details>
@@ -213,15 +213,15 @@
 											<table>
 											<tr>
 												<td><b><a href='https://github.com/bojanterzic529/pump_anchor/blob/master/programs/thrust_app/src/main_state/ixs/mod.rs'>mod.rs</a></b></td>
-												<td><code>❯ REPLACE-ME</code></td>
+												<td><code>Entry point of pool state instructions</code></td>
 											</tr>
 											<tr>
 												<td><b><a href='https://github.com/bojanterzic529/pump_anchor/blob/master/programs/thrust_app/src/main_state/ixs/init_main_state.rs'>init_main_state.rs</a></b></td>
-												<td><code>❯ REPLACE-ME</code></td>
+												<td><code>Initialize Main State</code></td>
 											</tr>
 											<tr>
 												<td><b><a href='https://github.com/bojanterzic529/pump_anchor/blob/master/programs/thrust_app/src/main_state/ixs/update_main_state_owner.rs'>update_main_state_owner.rs</a></b></td>
-												<td><code>❯ REPLACE-ME</code></td>
+												<td><code>Update Main State</code></td>
 											</tr>
 											</table>
 										</blockquote>
@@ -234,11 +234,11 @@
 									<table>
 									<tr>
 										<td><b><a href='https://github.com/bojanterzic529/pump_anchor/blob/master/programs/thrust_app/src/user/mod.rs'>mod.rs</a></b></td>
-										<td><code>❯ REPLACE-ME</code></td>
+										<td><code>Entry point of user state instructions</code></td>
 									</tr>
 									<tr>
 										<td><b><a href='https://github.com/bojanterzic529/pump_anchor/blob/master/programs/thrust_app/src/user/state.rs'>state.rs</a></b></td>
-										<td><code>❯ REPLACE-ME</code></td>
+										<td><code>Declaration of user state structure</code></td>
 									</tr>
 									</table>
 								</blockquote>
@@ -255,7 +255,7 @@
 			<table>
 			<tr>
 				<td><b><a href='https://github.com/bojanterzic529/pump_anchor/blob/master/migrations/deploy.ts'>deploy.ts</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>deploy script</code></td>
 			</tr>
 			</table>
 		</blockquote>
@@ -291,21 +291,23 @@ Install pump_anchor using one of the following methods:
 
 3. Install the project dependencies:
 
-
 **Using `cargo`** &nbsp; [<img align="center" src="https://img.shields.io/badge/Rust-000000.svg?style={badge_style}&logo=rust&logoColor=white" />](https://www.rust-lang.org/)
 
 ```sh
 ❯ cargo build
 ```
 
-
-**Using `npm`** &nbsp; [<img align="center" src="" />]()
+**Using `npm`** &nbsp; [<img align="center" src="https://img.shields.io/badge/Node.js-000000.svg?style={badge_style}&logo=node.js&logoColor=white" />](https://nodejs.org/)
 
 ```sh
-❯ echo 'INSERT-INSTALL-COMMAND-HERE'
+❯ npm install
 ```
 
+**Using `anchor`** &nbsp; [<img align="center" src="https://img.shields.io/badge/Anchor-000000.svg?style={badge_style}&logo=anchor&logoColor=white" />](https://project-serum.github.io/anchor/)
 
+```sh
+❯ anchor build
+```
 
 
 ###  Usage
@@ -320,7 +322,7 @@ Run pump_anchor using the following command:
 **Using `npm`** &nbsp; [<img align="center" src="" />]()
 
 ```sh
-❯ echo 'INSERT-RUN-COMMAND-HERE'
+❯ npm run
 ```
 
 
@@ -336,16 +338,16 @@ Run the test suite using the following command:
 **Using `npm`** &nbsp; [<img align="center" src="" />]()
 
 ```sh
-❯ echo 'INSERT-TEST-COMMAND-HERE'
+❯ npm test
 ```
 
 
 ---
 ##  Project Roadmap
 
-- [X] **`Task 1`**: <strike>Implement feature one.</strike>
-- [ ] **`Task 2`**: Implement feature two.
-- [ ] **`Task 3`**: Implement feature three.
+- [X] **`Task 1`**: <strike>Smart Contract Development</strike>
+- [ ] **`Task 2`**: Backend Development
+- [ ] **`Task 3`**: Frontend Development
 
 ---
 
@@ -394,7 +396,7 @@ Run the test suite using the following command:
 
 ##  License
 
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
+This project is protected under the [The Unlicense](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
 
 ---
 
